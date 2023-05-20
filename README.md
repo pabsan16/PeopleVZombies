@@ -8,6 +8,10 @@ El escenario del juego es el que podemos ver en la imagen:
 
 ![game](https://github.com/pabsan16/PeopleVZombies/assets/124245920/54a1e191-d9dc-4501-bc42-2d169a26bfad)
 
-La victoria se dará cuando ambos jugadores aguantan vivos durante 60 segundos (lo que tarda en llegar la ayuda militar). En cambio, serán derrotados si cualquiera de los dos cae antes de que se cumpla ese plazo de tiempo.
+La victoria se dará cuando ambos jugadores aguanten vivos durante 60 segundos (lo que tarda en llegar la ayuda militar). En cambio, serán derrotados si cualquiera de los dos cae antes de que se cumpla ese plazo de tiempo.
 
+Hemos diseñado una pantalla de bienvenida al juego, y otras dos de despedida (una para cuando se gana y una para cuando se pierde).
 
+El jugador principal lo ejecuta desde el archivo sala.py (es el host), y el segundo jugador desde player.py (es el guest).
+
+Para la comunicación entre ambos jugadores hemos importado desde la librería Multiprocessing Listener y Client.
