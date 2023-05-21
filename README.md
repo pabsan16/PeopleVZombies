@@ -3,6 +3,7 @@
     Pablo Sánchez Rico
 
 # PeopleVZombies
+
 En este repositorio, podemos encontrar el original juego multijugador PeopleVZombies, además del código que lo implementa y una breve descripción y explicación del mismo. En el archivo memoria_PeopleVZombies se explica en detalle el código implementado.
 
 PeopleVZombies parte de la premisa de que un virus se ha extendido por el planeta. Este virus provoca en las personas contagiadas tendencias agresivas y la pérdida de la razón, es decir, las "convierte" en zombies. Dos supervivientes (los jugadores) se encuentran rodeados de zombies y deberán resistir hasta la llegada de ayuda militar.
