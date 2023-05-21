@@ -1,6 +1,6 @@
-                                                                                                                    Javier Martinez Pérez
-                                                                                                                        Judit Nieto Parla
-                                                                                                                       Pablo Sánchez Rico
+Javier Martinez Pérez
+Judit Nieto Parla
+Pablo Sánchez Rico
 
 # PeopleVZombies
 En este repositorio, podemos encontrar el original juego multijugador PeopleVZombies, además del código que lo implementa y una breve descripción y explicación del mismo. En el archivo memoria_PeopleVZombies se explica en detalle el código implementado.
