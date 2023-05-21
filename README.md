@@ -24,7 +24,9 @@ donde ip_address_host es la dirección ip del jugador principal. El segundo juga
 El juego se desarrolla en modo multijugador, permitiendo que dos personas se conecten y jueguen juntas. Para la comunicación entre ambos jugadores hemos importado desde la librería Multiprocessing Listener y Client. El host inicia la conexión con un listener y espera a que haya otro jugador que se conecte (el guest), quien se conectará mediante el client.
 
 Los controles de los jugadores son los siguientes
+
     a w d s
+    
     ◀ ▲ ▶ ▼
     
 para desplazarse hacia la izquierda, arriba, derecha o abajo, respectivamente. Si se desea disparar a los zombies se pulsará la barra espaciadora.
