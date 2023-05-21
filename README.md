@@ -27,7 +27,6 @@ El juego se desarrolla en modo multijugador, permitiendo que dos personas se con
 Los controles de los jugadores son 
 
     a w d s
-    
     ◀ ▲ ▶ ▼
     
 para desplazarse hacia la izquierda, arriba, derecha o abajo, respectivamente. Si se desea disparar a los zombies se pulsará la barra espaciadora.
