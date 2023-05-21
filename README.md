@@ -8,7 +8,7 @@ En este repositorio, podemos encontrar el original juego multijugador PeopleVZom
 
 PeopleVZombies parte de la premisa de que un virus se ha extendido por el planeta. Este virus provoca en las personas contagiadas tendencias agresivas y la pérdida de la razón, es decir, las "convierte" en zombies. Dos supervivientes (los jugadores) se encuentran rodeados de zombies y deberán resistir hasta la llegada de ayuda militar.
 
-El escenario del juego es el que podemos ver en la siguiente imagen
+El escenario del juego es el que podemos ver en la siguiente imagen:
 
 ![game](https://github.com/pabsan16/PeopleVZombies/assets/124245920/54a1e191-d9dc-4501-bc42-2d169a26bfad)
 
