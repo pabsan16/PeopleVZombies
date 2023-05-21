@@ -31,6 +31,8 @@ Los controles de los jugadores son
     
 para desplazarse hacia la izquierda, arriba, derecha o abajo, respectivamente. Si se desea disparar a los zombies se pulsará la barra espaciadora.
 
+Para poder salir del juego se debe presionar la tecla esc. 
+
 La victoria se dará cuando ambos jugadores aguanten vivos durante sesenta segundos, pues es lo que tarda en llegar la ayuda militar. En cambio, serán derrotados si cualquiera de los dos cae antes de que se cumpla ese plazo de tiempo.
 
 Se ha diseñado una pantalla de bienvenida al juego que se muestra cuando ambos jugadores se conectan. De la misma manera, se han diseñado otras dos pantallas diferentes dependiendo de si los jugadores han sobrevivido o no.
